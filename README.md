@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mominarashad/Leetcoding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mominarashad/Leetcoding/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mominarashad/Leetcoding/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mominarashad/Leetcoding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/mominarashad/Leetcoding/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/mominarashad/Leetcoding/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mominarashad/Leetcoding/tree/master/0053-maximum-subarray) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mominarashad/Leetcoding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/mominarashad/Leetcoding/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
