@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mominarashad/Leetcoding/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mominarashad/Leetcoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1092-shortest-common-supersequence](https://github.com/mominarashad/Leetcoding/tree/master/1092-shortest-common-supersequence) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mominarashad/Leetcoding/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mominarashad/Leetcoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
