@@ -1,11 +1,14 @@
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
         nums.sort()
+
+        res=set()
+
         n=len(nums)
 
         if n<3:
             return []
-        res=set()
+
         for i in range(n-2):
 
             low=i+1
@@ -14,6 +17,7 @@ class Solution:
             while low<high:
 
                 sum=nums[low]+nums[high]+nums[i]
+
                 if sum==0:
                     res.add((nums[low],nums[high],nums[i]))
                     low+=1
@@ -24,4 +28,3 @@ class Solution:
                     high-=1
 
         return [list(triple) for triple in res]
-        
