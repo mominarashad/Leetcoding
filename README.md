@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mominarashad/Leetcoding/tree/master/0005-longest-palindromic-substring) |
 | [1092-shortest-common-supersequence](https://github.com/mominarashad/Leetcoding/tree/master/1092-shortest-common-supersequence) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mominarashad/Leetcoding/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mominarashad/Leetcoding/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
