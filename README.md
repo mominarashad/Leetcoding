@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mominarashad/Leetcoding/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mominarashad/Leetcoding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mominarashad/Leetcoding/tree/master/0560-subarray-sum-equals-k) |
+| [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mominarashad/Leetcoding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mominarashad/Leetcoding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mominarashad/Leetcoding/tree/master/0217-contains-duplicate) |
+| [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mominarashad/Leetcoding/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mominarashad/Leetcoding/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -187,4 +190,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mominarashad/Leetcoding/tree/master/0005-longest-palindromic-substring) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
