@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mominarashad/Leetcoding/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mominarashad/Leetcoding/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mominarashad/Leetcoding/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/mominarashad/Leetcoding/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/mominarashad/Leetcoding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mominarashad/Leetcoding/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mominarashad/Leetcoding/tree/master/0540-single-element-in-a-sorted-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mominarashad/Leetcoding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/mominarashad/Leetcoding/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/mominarashad/Leetcoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mominarashad/Leetcoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mominarashad/Leetcoding/tree/master/0567-permutation-in-string) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mominarashad/Leetcoding/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/mominarashad/Leetcoding/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -216,4 +219,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mominarashad/Leetcoding/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mominarashad/Leetcoding/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mominarashad/Leetcoding/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
