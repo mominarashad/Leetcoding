@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mominarashad/Leetcoding/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/mominarashad/Leetcoding/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/mominarashad/Leetcoding/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/mominarashad/Leetcoding/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -149,10 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/mominarashad/Leetcoding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mominarashad/Leetcoding/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/mominarashad/Leetcoding/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/mominarashad/Leetcoding/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mominarashad/Leetcoding/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/mominarashad/Leetcoding/tree/master/0739-daily-temperatures) |
 ## Union-Find
 |  |
 | ------- |
