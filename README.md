@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mominarashad/Leetcoding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mominarashad/Leetcoding/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/mominarashad/Leetcoding/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/mominarashad/Leetcoding/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mominarashad/Leetcoding/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mominarashad/Leetcoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/mominarashad/Leetcoding/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/mominarashad/Leetcoding/tree/master/0567-permutation-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/mominarashad/Leetcoding/tree/master/1092-shortest-common-supersequence) |
 ## Dynamic Programming
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mominarashad/Leetcoding/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/mominarashad/Leetcoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/mominarashad/Leetcoding/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/mominarashad/Leetcoding/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mominarashad/Leetcoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mominarashad/Leetcoding/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/mominarashad/Leetcoding/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
