@@ -1,11 +1,12 @@
 class Solution:
     def maxSlidingWindow(self, nums: list[int], k: int) -> list[int]:
         
+        n=len(nums)
+
+        res=[0]*(n-k+1)
+
         dq=deque()
 
-        n=len(nums)
-        
-        res=[0]*(n-k+1)
         for i in range(k):
 
             while dq and nums[i]>=nums[dq[-1]]:
@@ -30,5 +31,5 @@ class Solution:
         return res
 
 
+        
 
-            
