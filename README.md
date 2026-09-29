@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mominarashad/Leetcoding/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/mominarashad/Leetcoding/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/mominarashad/Leetcoding/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/mominarashad/Leetcoding/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mominarashad/Leetcoding/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mominarashad/Leetcoding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mominarashad/Leetcoding/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/mominarashad/Leetcoding/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mominarashad/Leetcoding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mominarashad/Leetcoding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mominarashad/Leetcoding/tree/master/0217-contains-duplicate) |
+| [0658-find-k-closest-elements](https://github.com/mominarashad/Leetcoding/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mominarashad/Leetcoding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/mominarashad/Leetcoding/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mominarashad/Leetcoding/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/mominarashad/Leetcoding/tree/master/0658-find-k-closest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mominarashad/Leetcoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mominarashad/Leetcoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mominarashad/Leetcoding/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/mominarashad/Leetcoding/tree/master/0658-find-k-closest-elements) |
 ## Trie
 |  |
 | ------- |
@@ -193,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/mominarashad/Leetcoding/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
