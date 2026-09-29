@@ -1,5 +1,6 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> list[int]:
+        
         hash_p=[0]*26
         hash_s=[0]*26
 
