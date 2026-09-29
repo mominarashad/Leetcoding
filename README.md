@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mominarashad/Leetcoding/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mominarashad/Leetcoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mominarashad/Leetcoding/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mominarashad/Leetcoding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/mominarashad/Leetcoding/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mominarashad/Leetcoding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/mominarashad/Leetcoding/tree/master/0169-majority-element) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mominarashad/Leetcoding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mominarashad/Leetcoding/tree/master/0189-rotate-array) |
 ## Quicksort
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mominarashad/Leetcoding/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mominarashad/Leetcoding/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mominarashad/Leetcoding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mominarashad/Leetcoding/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mominarashad/Leetcoding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mominarashad/Leetcoding/tree/master/0232-implement-queue-using-stacks) |
