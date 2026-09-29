@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mominarashad/Leetcoding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mominarashad/Leetcoding/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/mominarashad/Leetcoding/tree/master/0658-find-k-closest-elements) |
+| [0735-asteroid-collision](https://github.com/mominarashad/Leetcoding/tree/master/0735-asteroid-collision) |
 | [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mominarashad/Leetcoding/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mominarashad/Leetcoding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mominarashad/Leetcoding/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/mominarashad/Leetcoding/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mominarashad/Leetcoding/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/mominarashad/Leetcoding/tree/master/0735-asteroid-collision) |
 ## Sliding Window
 |  |
 | ------- |
