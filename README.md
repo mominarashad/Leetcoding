@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mominarashad/Leetcoding/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mominarashad/Leetcoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mominarashad/Leetcoding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/mominarashad/Leetcoding/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/mominarashad/Leetcoding/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/mominarashad/Leetcoding/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mominarashad/Leetcoding/tree/master/0049-group-anagrams) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mominarashad/Leetcoding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mominarashad/Leetcoding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/mominarashad/Leetcoding/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/mominarashad/Leetcoding/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mominarashad/Leetcoding/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mominarashad/Leetcoding/tree/master/0073-set-matrix-zeroes) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mominarashad/Leetcoding/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/mominarashad/Leetcoding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mominarashad/Leetcoding/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
