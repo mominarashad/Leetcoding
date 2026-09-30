@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mominarashad/Leetcoding/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/mominarashad/Leetcoding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mominarashad/Leetcoding/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/mominarashad/Leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mominarashad/Leetcoding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mominarashad/Leetcoding/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/mominarashad/Leetcoding/tree/master/0658-find-k-closest-elements) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mominarashad/Leetcoding/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mominarashad/Leetcoding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mominarashad/Leetcoding/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/mominarashad/Leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/mominarashad/Leetcoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mominarashad/Leetcoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/mominarashad/Leetcoding/tree/master/0560-subarray-sum-equals-k) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mominarashad/Leetcoding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mominarashad/Leetcoding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mominarashad/Leetcoding/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/mominarashad/Leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/mominarashad/Leetcoding/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/mominarashad/Leetcoding/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mominarashad/Leetcoding/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mominarashad/Leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mominarashad/Leetcoding/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mominarashad/Leetcoding/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -223,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mominarashad/Leetcoding/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/mominarashad/Leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/mominarashad/Leetcoding/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -232,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mominarashad/Leetcoding/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -275,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/mominarashad/Leetcoding/tree/master/0895-maximum-frequency-stack) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mominarashad/Leetcoding/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
