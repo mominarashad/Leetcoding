@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mominarashad/Leetcoding/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mominarashad/Leetcoding/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/mominarashad/Leetcoding/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/mominarashad/Leetcoding/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mominarashad/Leetcoding/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/mominarashad/Leetcoding/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/mominarashad/Leetcoding/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
