@@ -3,15 +3,14 @@ class Solution:
         
         n=len(nums)
 
-        res=[0]*(n-k+1)
-
         dq=deque()
+
+        res=[0]*(n-k+1)
 
         for i in range(k):
 
             while dq and nums[i]>=nums[dq[-1]]:
                 dq.pop()
-
             dq.append(i)
 
         res[0]=nums[dq[0]]
@@ -23,7 +22,6 @@ class Solution:
 
             while dq and nums[i]>=nums[dq[-1]]:
                 dq.pop()
-
             dq.append(i)
 
             res[i-k+1]=nums[dq[0]]
@@ -31,5 +29,4 @@ class Solution:
         return res
 
 
-        
-
+            
